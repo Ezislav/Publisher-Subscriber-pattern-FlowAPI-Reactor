@@ -1,4 +1,4 @@
-# Implementation of the Publisher & Subscriber pattern (FlowAPI & Reactor)
+# Test task: implementation of the publisher & subscriber pattern (FlowAPI & Reactor)
 
 # 1.FlowAPI
 
